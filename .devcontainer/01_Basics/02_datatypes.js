@@ -24,7 +24,7 @@ console.log(typeof isLoggedIn);
 console.log(typeof null);
 console.log(typeof undefined);*/
 
-    // CONVERSION OPERATIONS
+    // CONVERSIONS
 // 1. NUMBERS
 
 //let score = null
@@ -55,3 +55,21 @@ let someNumber = 30
 let stringNumber = String(someNumber)
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+//************* OPERATIONS **********************/
+console.log("  OPERATIONS  ")
+
+let value = 3
+let negValue = -value
+//console.log(negValue);
+ 
+console.log(2+2);
+console.log(4-2);
+console.log(2*4);
+console.log(2**2);
+console.log(2/3);
+console.log(2%3);
+
+
+let str1 = "hello"
+let str2 = "kunal"
